@@ -1,4 +1,4 @@
-# 🌍 Time-Zone Based Team Scheduler
+#  Time-Zone Based Team Scheduler
 
 > A simple web application to help teams across different time zones find the perfect meeting time by overlapping their availability.
 
