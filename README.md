@@ -7,7 +7,7 @@ This project consists of a React frontend and a Python (FastAPI) backend that wo
 
 
 ---
-## ✨ Features
+## Features
 
 -   **Dynamic Inputs:** Select the number of team members joining the meeting.
 -   **Time Zone Aware:** Each member can select their local time zone from a comprehensive list.
