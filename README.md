@@ -30,7 +30,7 @@ This project consists of a React frontend and a Python (FastAPI) backend that wo
         -   `pytz`: For reliable time zone calculations.
 
 ---
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
