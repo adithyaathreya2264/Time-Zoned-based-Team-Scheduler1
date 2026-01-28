@@ -16,7 +16,7 @@ This project consists of a React frontend and a Python (FastAPI) backend that wo
 -   **Localized Results:** The resulting meeting time is displayed in both UTC and each member's local time zone.
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 -   **Frontend:**
     -   **Framework:** [React](https://reactjs.org/)
