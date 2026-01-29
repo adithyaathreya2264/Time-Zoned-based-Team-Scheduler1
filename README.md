@@ -118,7 +118,7 @@ You will need to run the frontend and backend servers in two separate terminals.
 -   The application will open in your browser at `http://localhost:3000`.
 
 ---
-## 📝 API Endpoint
+## API Endpoint
 
 The primary API endpoint used by the application is:
 
