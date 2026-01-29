@@ -94,7 +94,7 @@ You will need the following software installed on your computer:
     ```
 
 ---
-## 🏃‍♂️ Running the Application
+## Running the Application
 
 You will need to run the frontend and backend servers in two separate terminals.
 
